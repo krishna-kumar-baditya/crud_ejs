@@ -9,10 +9,7 @@ A simple CRUD (Create, Read, Update, Delete) application built using Node.js, Ex
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Setup Environment Variables](#setup-environment-variables)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
